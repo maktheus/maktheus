@@ -23,7 +23,8 @@
  	<a href="https://www.twitch.tv/maktheusi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomaktheus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maktheus/" target="_blank">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGEtIOIiRhQ0g/profile-displayphoto-shrink_200_200/0/1572997363360?e=1640217600&v=beta&t=f3Gzr1EZd33gxNPqklEQTol8ABipKXZ--hQPux80fvw" target="_blank"></a> 
  
   ![Snake animation](https://github.com/maktheus/maktheus/blob/output/github-contribution-grid-snake.svg)
  
